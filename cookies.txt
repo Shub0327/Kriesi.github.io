@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kriesi.at	TRUE	/	FALSE	1999999999	PHPSESSID	e4950e094ac547e8e1eff00b98ad85c4
+
